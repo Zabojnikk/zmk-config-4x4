@@ -11,10 +11,10 @@
 
         default_layer {
             bindings = <
-                &kp N1          &kp N2          &kp N3          &mo 1
-                &kp N4          &kp N5          &kp N6          &kp w
-                &kp N7          &kp N8          &kp N9          &kp e
-                &kp N0          &kp SPACE       &kp BSPC        &kp r
+                &kp N1          &kp N2          &kp N3          &lt BT Q
+                &kp N4          &kp N5          &kp N6          &kp W
+                &kp N7          &kp N8          &kp N9          &kp E
+                &kp N0          &kp SPACE       &kp BSPC        &kp R
             >;
         };
 
@@ -22,7 +22,7 @@
             bindings = <
                 &bootloader     &bt BT_CLR      &none           &none
                 &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3
-                &kp t           &kp e           &kp s           &kp t
+                &kp T           &kp E           &kp S           &kp T
                 &none           &none           &none           &none
             >;
         };
