@@ -11,7 +11,7 @@
 
         default_layer {
             bindings = <
-                &kp N1          &kp N2          &kp N3          &lt BT q
+                &kp N1          &kp N2          &kp N3          &mo 1
                 &kp N4          &kp N5          &kp N6          &kp w
                 &kp N7          &kp N8          &kp N9          &kp e
                 &kp N0          &kp SPACE       &kp BSPC        &kp r   
